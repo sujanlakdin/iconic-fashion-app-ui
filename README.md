@@ -87,5 +87,25 @@ Browse → View → Add to Cart → Pay → Confirm → Account
 
 ## 📸 Screenshots (Preview)
 
-![Main Screens Preview](images/Screenshot 2025-11-20 191348.png)
+## 📸 Screenshots (App Preview)
+
+### 🔥 Main UI Screens
+
+<p align="center">
+  <img src="images/Screenshot 2025-11-20 191348.png" width="250" />
+  <img src="images/Screenshot 2025-11-20 191452.png" width="250" />
+  <img src="images/Screenshot 2025-11-20 191524.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2025-11-20 191540.png" width="250" />
+  <img src="images/Screenshot 2025-11-20 191605.png" width="250" />
+  <img src="images/Screenshot 2025-11-20 191620.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2025-11-20 191639.png" width="250" />
+  <img src="images/Screenshot 2025-11-20 191654.png" width="250" />
+</p>
+
 
