@@ -87,4 +87,5 @@ Browse → View → Add to Cart → Pay → Confirm → Account
 
 ## 📸 Screenshots (Preview)
 
-> You can add screen previews here after uploading them:
+![Main Screens Preview](images/Screenshot 2025-11-20 191348.png)
+
