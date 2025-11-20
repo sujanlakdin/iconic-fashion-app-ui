@@ -85,45 +85,44 @@ Browse → View → Add to Cart → Pay → Confirm → Account
 
 ---
 
-## 📸 Screenshots (Preview)
 ## 📸 Screenshots (Full App Preview)
 
-Below is a gallery showcasing the full set of UI screens from the ICONIC Fashion App.
+Below is a gallery showcasing the main parts of UI screens from the ICONIC Fashion App.
 
-### 🔥 UI Gallery
+🔥 UI Gallery
 
 <p align="center">
-  <img src="images/Screenshot 2025-11-20 192629.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192643.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192702.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192629.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192643.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192702.png" width="240" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-11-20 192716.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192727.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192739.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192716.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192727.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192739.png" width="240" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-11-20 192749.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192758.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192815.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192749.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192758.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192815.png" width="240" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-11-20 192828.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192840.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192853.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192828.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192840.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192853.png" width="240" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-11-20 192909.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192924.png" width="240" />
-  <img src="images/Screenshot 2025-11-20 192930.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192909.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192924.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192930.png" width="240" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-11-20 192940.png" width="240" />
+  <img src="images/images/Screenshot 2025-11-20 192940.png" width="240" />
 </p>
 
 
